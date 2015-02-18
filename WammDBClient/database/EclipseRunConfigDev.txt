@@ -1,0 +1,2 @@
+-DBID=WammDevTeamWamm1
+-DBKeyFile=\database\DevTableKeysEncoded.txt

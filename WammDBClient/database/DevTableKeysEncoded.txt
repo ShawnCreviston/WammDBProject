@@ -1,0 +1,9 @@
+mySqlIp=localhost:3306
+
+# Do not modify or add anything below #
+encrypted
+LB4VMRK0M7bF9c1W1IZLKe372wH7sNKBNBvtD2wTSQc=
+9zdwAvQVXI+gtllWB0LEfLvZ+hRXwB7/+fBL12N6wQ4=
+Pd1aZB7m5tN9BhrJEE1DGf8mWUagMIJ5R44vRCyXNt4=
+rf9+ePtSuTxtq4QE8/PD1UpczjVnAd/5fq08O4kkxamGTYtsnP5nRa4mkC0BfLYZ
+l9Wuq1zWywrd5J8uGBdGQQLXUDh4Fj0lEzPRL6s8594=
